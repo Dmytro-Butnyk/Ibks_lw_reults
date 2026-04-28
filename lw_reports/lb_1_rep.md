@@ -19,8 +19,7 @@
 
 ---
 
-<img width="716" height="256" alt="image" src="https://github.com/user-attachments/assets/11c4413d-7167-4abe-85e1-8b34e905df3a" />
-
+> <img width="716" height="256" alt="image" src="https://github.com/user-attachments/assets/11c4413d-7167-4abe-85e1-8b34e905df3a" />
 **Рисунок 1.1 — Результати роботи програми**
 
 ---
