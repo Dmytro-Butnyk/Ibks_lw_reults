@@ -16,14 +16,12 @@
 3. **Шифрування та дешифрування файлів:** Реалізовано читання текстового файлу, перетворення символів у числові блоки, шифрування за формулою $c_i=m_i^e \pmod n$ та запис у файл криптограми. Дешифрування виконується за формулою $m_i=c_i^d \pmod n$ із збереженням відновленого тексту.
 
 ---
-
-<img width="757" height="279" alt="image" src="https://github.com/user-attachments/assets/fb60b634-93b1-4449-8319-9219fbc2cd85" />  
-
+> <img width="757" height="279" alt="image" src="https://github.com/user-attachments/assets/fb60b634-93b1-4449-8319-9219fbc2cd85" />  
 **Рисунок 2.1 — Результат роботи консольного додатка**
 
+<br>
   
-<img width="757" height="500" alt="image" src="https://github.com/user-attachments/assets/f95cfbc1-4ce6-468e-8247-f83e12b07b1f" />  
-
+> <img width="757" height="500" alt="image" src="https://github.com/user-attachments/assets/f95cfbc1-4ce6-468e-8247-f83e12b07b1f" />  
 **Рисунок 2.2 — Результат роботи консольного додатка**
 
 ---
